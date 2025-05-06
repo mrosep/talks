@@ -7,7 +7,7 @@
 
 2. Accelerated Nested Sampling with Beta-Flows for Gravitational Waves (05.12.24)
    * Invited seminar at Glasgow IGR.
-   * [pdf]((https://github.com/mrosep/talks/tree/glasgow/Glasgow_Presentation-10.pdf)
+   * [pdf](https://github.com/mrosep/talks/tree/glasgow/Glasgow_Presentation-10.pdf)
    * [source](https://github.com/mrosep/talks/tree/glasgow)
   
 3. Accelerated Nested Sampling with Applications to Cosmology and Gravitational Waves (16.01.25)
