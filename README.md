@@ -1,25 +1,6 @@
-# Metha Prathaban's Academic Talks
+# Abstract
 
-1. Nested Sampling for Next Generation Gravitational-Wave Inference
-   * Talk at Monash University for the Inference with Data group meeting
-   
-3. Inference Techniques for Gravitational-Wave Science (11.03.25)
-   * Invited overview talk at CamGW, internal Kavli Science Focus meeting bringing together gravitational-wave researchers across Cambridge.
-   * [pdf](https://github.com/mrosep/talks/tree/CamGW/CamGW_Presentation-1.pdf)
-   * [source](https://github.com/mrosep/talks/tree/CamGW)
-     
-4.  Accelerated Nested Sampling with Applications to Cosmology and Gravitational Waves (16.01.25)
-   * Invited talk at the Cosmology and Extragalactic Astrophysics weekly seminar series.
-
-3. Accelerated Nested Sampling with Beta-Flows for Gravitational Waves (05.12.24)
-   * Invited seminar at Glasgow IGR.
-   * [pdf](https://github.com/mrosep/talks/tree/glasgow/Glasgow_Presentation-10.pdf)
-   * [source](https://github.com/mrosep/talks/tree/glasgow)
-   * 
-4. Accelerated Nested Sampling for Gravitational Waves (29.11.24)
-   * Invited talk at Portsmouth ICG.
-   * [pdf](https://github.com/mrosep/talks/tree/portsmouth/Portsmouth_Presentation-12.pdf)
-   * [source](https://github.com/mrosep/talks/tree/portsmouth)
+There is an ever-growing need in the gravitational wave community for fast and reliable inference methods, accompanied by an informative error bar. Nested sampling satisfies the last two requirements, but its computational cost can quickly become prohibitive, and current pipelines employing nested sampling will not scale well for the next generation of data. However, the integration of machine learning and the adoption of GPUs can accelerate nested sampling by several orders of magnitude, working towards addressing these challenges and providing a complementary approach to alternative techniques like simulation-based inference. I will discuss the acceleration of nested sampling using a technique called posterior repartitioning, combined with normalizing flows, which leverages nested sampling's unique ability to separate prior and likelihood contributions at the algorithmic level. I will also go on to discuss recent work by my group on a blackjax implementation of nested sampling, enabling GPU-accelerated pipelines for next generation gravitational wave inference.
 
   
 
