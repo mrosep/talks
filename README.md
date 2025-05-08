@@ -2,6 +2,8 @@
 
 1. Nested Sampling for Next Generation Gravitational-Wave Inference
    * Talk at Monash University for the Inference with Data group meeting
+   * [pdf](https://github.com/mrosep/talks/tree/monash/monash_talk-2.pdf)
+   * [source](https://github.com/mrosep/talks/tree/monash)
    
 3. Inference Techniques for Gravitational-Wave Science (11.03.25)
    * Invited overview talk at CamGW, internal Kavli Science Focus meeting bringing together gravitational-wave researchers across Cambridge.
