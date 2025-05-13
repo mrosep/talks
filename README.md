@@ -1,33 +1,6 @@
-# Metha Prathaban's Academic Talks
+# Abstract
 
-1. Nested Sampling for Next Generation Gravitational-Wave Inference
-   * Talk at Australian National University to the gravitational waves group
-   * [pdf](https://github.com/mrosep/talks/tree/anu/anu_talk.pdf)
-   * [source](https://github.com/mrosep/talks/tree/anu)
-   
-2. Nested Sampling for Next Generation Gravitational-Wave Inference
-   * Talk at Monash University for the Inference with Data group meeting
-   * [pdf](https://github.com/mrosep/talks/tree/monash/monash_talk-2.pdf)
-   * [source](https://github.com/mrosep/talks/tree/monash)
-   
-3. Inference Techniques for Gravitational-Wave Science (11.03.25)
-   * Invited overview talk at CamGW, internal Kavli Science Focus meeting bringing together gravitational-wave researchers across Cambridge.
-   * [pdf](https://github.com/mrosep/talks/tree/CamGW/CamGW_Presentation-1.pdf)
-   * [source](https://github.com/mrosep/talks/tree/CamGW)
-     
-4.  Accelerated Nested Sampling with Applications to Cosmology and Gravitational Waves (16.01.25)
-   * Invited talk at the Cosmology and Extragalactic Astrophysics weekly seminar series.
-
-5. Accelerated Nested Sampling with Beta-Flows for Gravitational Waves (05.12.24)
-   * Invited seminar at Glasgow IGR.
-   * [pdf](https://github.com/mrosep/talks/tree/glasgow/Glasgow_Presentation-10.pdf)
-   * [source](https://github.com/mrosep/talks/tree/glasgow)
-   * 
-6. Accelerated Nested Sampling for Gravitational Waves (29.11.24)
-   * Invited talk at Portsmouth ICG.
-   * [pdf](https://github.com/mrosep/talks/tree/portsmouth/Portsmouth_Presentation-12.pdf)
-   * [source](https://github.com/mrosep/talks/tree/portsmouth)
-
+There is an ever-growing need in the gravitational wave community for fast and reliable inference methods, accompanied by an informative error bar. Nested sampling satisfies the last two requirements, but its computational cost can become prohibitive when using the most accurate waveform models. I demonstrate the acceleration of nested sampling using a technique called posterior repartitioning, which leverages nested sampling's unique ability to separate prior and likelihood contributions at the algorithmic level. Specifically, we will define a `repartitioned prior' informed by the posterior from a low-resolution run, and use this for an accelerated high-resolution run. Although posterior repartitioning does not require the use of machine learning, I show how using a beta-flow, a novel type of conditional normalizing flow, to construct the repartitioned prior can enhance its effectiveness. Beta-flows are trained on the entire nested sampling run and  are  designed to better learn deep tail probabilities. Applying these methods to simulated and real binary black hole mergers, I show that we can achieve up to order of magnitude speedups on realistic gravitational wave data. 
   
 
   
