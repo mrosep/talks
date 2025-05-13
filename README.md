@@ -16,15 +16,15 @@
    * [source](https://github.com/mrosep/talks/tree/CamGW)
      
 4.  Accelerated Nested Sampling with Applications to Cosmology and Gravitational Waves (16.01.25)
-   * Invited talk for the Cosmology and Extragalactic Astrophysics weekly seminar series at University College London.
-   * [pdf](https://github.com/mrosep/talks/tree/ucl/UCL_Presentation-6.pdf)
-   * [source](https://github.com/mrosep/talks/tree/ucl)
+    * Invited talk for the Cosmology and Extragalactic Astrophysics weekly seminar series at University College London.
+    * [pdf](https://github.com/mrosep/talks/tree/ucl/UCL_Presentation-6.pdf)
+    * [source](https://github.com/mrosep/talks/tree/ucl)
 
 5. Accelerated Nested Sampling with Beta-Flows for Gravitational Waves (05.12.24)
    * Invited seminar at the University of Glasgow Institute for Gravitational Research.
    * [pdf](https://github.com/mrosep/talks/tree/glasgow/Glasgow_Presentation-10.pdf)
    * [source](https://github.com/mrosep/talks/tree/glasgow)
-   * 
+     
 6. Accelerated Nested Sampling for Gravitational Waves (29.11.24)
    * Invited talk at the University of Portsmouth Institute for Cosmology and Gravitation.
    * [pdf](https://github.com/mrosep/talks/tree/portsmouth/Portsmouth_Presentation-12.pdf)
@@ -32,7 +32,8 @@
   
 7. Accelerated nested sampling (21.10.24)
    * Short talk at Kavli Insititute for Cosmology Cambridge introductory event.
-   * 
+   * [pdf](https://github.com/mrosep/talks/tree/kicc/KICC_Introduction_2024-2.pdf)
+   * [source](https://github.com/mrosep/talks/tree/kicc)
 
   
 
